@@ -1,0 +1,24 @@
+.listItems {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #f1f5f9;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.VisitBtn {
+  background-color: #3b82f6;
+  color: #ffffff;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  padding: 8px;
+  width: 100px;
+}
+.visited {
+  color: #ffffff;
+}
+.name {
+  color: #ffffff;
+}

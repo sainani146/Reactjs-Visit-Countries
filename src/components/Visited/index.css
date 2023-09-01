@@ -1,0 +1,31 @@
+.VisitedList {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  margin-right: 15px;
+}
+.imgSection {
+  width: 200px;
+  border-radius: 5px;
+}
+.cImg {
+  width: 100%;
+}
+.Cname {
+  color: #ffffff;
+}
+.Cinfo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px;
+  background-color: transparent;
+}
+.removeBtn {
+  border: 1px solid #f1f5f9;
+  border-radius: 5px;
+  background-color: transparent;
+  outline: none;
+  color: #ffffff;
+  padding: 8px;
+}
